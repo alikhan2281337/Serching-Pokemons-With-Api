@@ -1,7 +1,20 @@
 .App {
   text-align: center;
 }
-
+.inst{
+  margin: 5px;
+}
+#input1{
+  width: 205px;
+  border-radius: 10px;
+  padding: 1%;
+  border: solid 1px;
+}
+.App img{
+  width: 150px;
+  padding: 1%;
+  height: 150px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,6 +25,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
